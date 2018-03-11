@@ -1,0 +1,2 @@
+# silare.xyz
+SILARE is a tool which was made in python with the help of Deep Learning frameworks like Tensorflow and CNN(Convolutional Neural Network) based on the model of Inception V2. This tool will be able to facilitate the working brain behind many application in the deaf and dumb society such as a real life translator and real life sign understanding personal assistant. The uses of SILARE are limitless. This is just the foundation for revolutionising the gap between the communications.
